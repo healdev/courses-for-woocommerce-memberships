@@ -1,2 +1,2 @@
 # Follow-up Emails for Woocommerce Memberships
-Coming Soon - Send automated and manual Memberships follow-up emails with the <a href="https://woocommerce.com/products/woocommerce-memberships/">Woocommerce Memberships</a> extension.
+Plugin coming soon - Send automated and manual Memberships follow-up emails with the <a href="https://woocommerce.com/products/woocommerce-memberships/">Woocommerce Memberships</a> extension.
